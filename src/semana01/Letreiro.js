@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 
 function TypingText() 
 {
-  const text = "Venha estudar na Fatec!!!";
+  const text = "Venha conhecer a Fatec!!! :D ";
   const [displayText, setDisplayText] = useState('');
   const [index, setIndex] = useState(0);
 
