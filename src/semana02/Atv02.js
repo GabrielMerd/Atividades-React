@@ -42,4 +42,5 @@ export default function Atv02()
   );
 }
 
-//Código desenvolvido com auxílio do aluno Carlos Alfredo e José Victor
+//Código criado com a ajuda do W3S e de videos no Youtube
+//gm
