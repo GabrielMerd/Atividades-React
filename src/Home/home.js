@@ -5,6 +5,7 @@ const Home = () => {
   return (
     <>
       <h1>Página Inicial</h1>
+      <h2>Gabriel Meredija</h2>
       <nav>
         <ul>
           <li>
