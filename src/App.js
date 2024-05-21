@@ -3,6 +3,7 @@ import {BrowserRouter, Route, Routes } from 'react-router-dom'
 import Home from "./Home/home";
 import Semana01 from "./semana01/Atv01";
 import Semana02 from "./semana02/Atv02";
+import Semana03 from "./semana02/Atividade03";
 function App() {
   return (
       <BrowserRouter>
