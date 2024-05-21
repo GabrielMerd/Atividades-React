@@ -10,6 +10,7 @@ function App() {
           <Route path="/" element={<Home/>} />
           <Route path="/semana01" element={<Semana01/>} />
           <Route path="/semana02" element={<Semana02/>} />
+          <Route path="/semana03" element={<Semana03/>} />
           
       </Routes>
       </BrowserRouter>
