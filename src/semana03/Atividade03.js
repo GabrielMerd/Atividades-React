@@ -27,3 +27,6 @@ export default function Atividade03()
         </>
     );
 }
+
+//Atividade realiza graças ao W3S (https://www.w3schools.com/react/react_components.asp) e alguns videos do youtube explicando. 
+//gm
