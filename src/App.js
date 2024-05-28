@@ -4,7 +4,7 @@ import Home from "./Home/home";
 import Semana01 from "./semana01/Atv01";
 import Semana02 from "./semana02/Atv02";
 import Semana03 from "./semana03/Atividade03";
-import {Semana04} from "./semana04/Atividade04";
+import Semana04 from "./semana04/Atividade04";
 function App() {
   return (
       <BrowserRouter>
