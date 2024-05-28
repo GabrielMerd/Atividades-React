@@ -13,7 +13,7 @@ export default function Counter()
                 setNumber(n => n + 1);
                 setNumber(n => n + 1);
                 setNumber(n => n + 1);
-            }}> Adicionar +3? </button>
+            }}> +3 </button>
         </>
     )
 }
